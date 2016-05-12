@@ -7,5 +7,6 @@ TeaCrap is a small java app to recover password stored using [Tiny Encryption Al
 3. put the password you want to "recover" in `teaPass.txt`
 4. Exec : `java teaCrap`
 5. Enjoy ;)
+
 ## Why ?
 Because i needed it for a pentest ;) and it helps me recover more than 3000 passwords in plain text.
