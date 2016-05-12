@@ -1,5 +1,5 @@
 # teaCrap
-## What is TeaCrap ?
+## What is teaCrap ?
 TeaCrap is a small java app to recover password stored using [Tiny Encryption Algorithm](https://en.wikipedia.org/wiki/Tiny_Encryption_Algorithm) which you should never use in production.
 ## How to ?
 1. Configure : change the key in `teaCrap.java`
@@ -9,5 +9,5 @@ TeaCrap is a small java app to recover password stored using [Tiny Encryption Al
 5. Enjoy ;)
 
 ## Why ?
-Because i needed it for a pentest ;) and it helps me recover more than 3000 passwords in plain text.
+Because i needed it during a pentest ;) and it helps me recover more than 3000 passwords in plain text.
 The "cypher" typo helps me in the first place to find this crapy "crypto" function.
